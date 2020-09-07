@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello new friends!
 
-<!--
-**jaylenej27/jaylenej27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is Jenna, and I am super excited to be on this coding journey**
 
-Here are some ideas to get you started:
+I support BLM, the LGBTQIA+ community, immigrants and believe in helping under utilized communities reach their potential.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Here are some interesting things about me:
+
+- 🔭 I’m currently working on a coding bootcamp
+- 🌱 I’m currently learning JS, React, Node, CSS, HTML and more
+- 👯 I’m looking to collaborate on projects as I learn more
+- 🤔 I’m looking for help with most likely everythin
+- 💬 Ask me about swing dancing
+- 📫 How to reach me: <a href="https://twitter.com/KoelblJennifer" target="_blank">Twitter</a>
+- 😄 Pronouns: she/her
+- :doughnut: Fun fact: I love donuts! Making and eating them
+
